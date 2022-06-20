@@ -6,7 +6,7 @@
 
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "http://192.168.2.11:8080/mm/MeowXB/XBiubiuLA3.jar;md5;389c60fa426852cd2b35baee5a302285",
+  "spider": "https://gxbin99.github.io/mm/MeowXB/XBiubiuLA3.jar;md5;389c60fa426852cd2b35baee5a302285",
   "lives": [
     {
       "group": "redirect",
@@ -14,7 +14,7 @@
         {
           "name": "live",
           "urls": [    
-            "proxy://do=live&type=txt&ext=aHR0cDovLzE5Mi4xNjguMi4xMTo4MDgwL21tL3R2L2xpdmUudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9neGJpbjk5LmdpdGh1Yi5pby9tbS90di9saXZlLnR4dA=="
           ]
         }
       ]
@@ -48,7 +48,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://192.168.2.11:8080/mm/MeowXP/huya2.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXP/huya2.json"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -58,7 +58,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://192.168.2.11:8080/mm/MeowXP/kuqimv.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXP/kuqimv.json"
     },
     {
       "key": "csp_biubiu_厂长资源-蓝光",
@@ -68,7 +68,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://192.168.2.11:8080/mm/MeowXB/厂长资源-蓝光.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXB/厂长资源-蓝光.json"
     },
     {
       "key": "csp_biubiu_特狗影视",
@@ -78,7 +78,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://192.168.2.11:8080/mm/MeowXB/特狗影视.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXB/特狗影视.json"
     },
     {
       "key": "csp_biubiu_喜鹊视频",
@@ -88,7 +88,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://192.168.2.11:8080/mm/MeowXB/喜鹊视频.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXB/喜鹊视频.json"
     },
     {
       "key": "csp_biubiu_瓜皮TV",
@@ -98,7 +98,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://192.168.2.11:8080/mm/MeowXB/瓜皮TV.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXB/瓜皮TV.json"
     },
     {
       "key": "csp_biubiu_真的卡影院",
@@ -108,7 +108,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://192.168.2.11:8080/mm/MeowXB/真的卡影院.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXB/真的卡影院.json"
     },
     {
       "key": "csp_biubiu_荣耀Glory",
@@ -118,7 +118,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://192.168.2.11:8080/mm/MeowXB/荣耀Glory.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXB/荣耀Glory.json"
     },
     {
       "key": "csp_biubiu_87影院",
@@ -128,7 +128,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://192.168.2.11:8080/mm/MeowXB/87影院.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXB/87影院.json"
     },
     {
       "key": "csp_biubiu_蓝光影院",
@@ -138,7 +138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://192.168.2.11:8080/mm/MeowXB/蓝光影院.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXB/蓝光影院.json"
     },
     {
       "key": "csp_xpath_ctv",
@@ -148,7 +148,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://192.168.2.11:8080/mm/MeowXP/chongtmtv.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXP/chongtmtv.json"
     },
     {
       "key": "csp_xpath_汉城影院",
@@ -158,7 +158,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://192.168.2.11:8080/mm/MeowXP/hancheng.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXP/hancheng.json"
     },
     {
       "key": "csp_xpath_libv",
@@ -168,7 +168,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://192.168.2.11:8080/mm/MeowXP/libv.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXP/libv.json"
     },
     {
       "key": "csp_xpath_cokemv",
@@ -178,7 +178,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://192.168.2.11:8080/mm/MeowXP/cokemv.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXP/cokemv.json"
     },
     {
       "key": "csp_xpath_ddg",
@@ -188,7 +188,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://192.168.2.11:8080/mm/MeowXP/dadagui.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXP/dadagui.json"
     },
     {
       "key": "csp_xpath_jbb",
@@ -198,7 +198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://192.168.2.11:8080/mm/MeowXP/jubaibai.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXP/jubaibai.json"
     },
     {
       "key": "csp_xpath_Jumi",
@@ -208,7 +208,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://192.168.2.11:8080/mm/MeowXP/Jumi.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXP/Jumi.json"
     },
     {
       "key": "csp_xpath_唐人街",
@@ -218,7 +218,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://192.168.2.11:8080/mm/MeowXP/Renjie.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXP/Renjie.json"
     },
     {
       "key": "csp_xpath_lranc",
@@ -228,7 +228,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://192.168.2.11:8080/mm/MeowXP/lranc.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXP/lranc.json"
     },
     {
       "key": "csp_xpath_yanetflix",
@@ -238,7 +238,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://192.168.2.11:8080/mm/MeowXP/yanet.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXP/yanet.json"
     },
     {
       "key": "csp_xpath_Ole",
@@ -248,7 +248,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://192.168.2.11:8080/mm/MeowXP/olevod.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXP/olevod.json"
     },
     {
       "key": "csp_xpath_xxys520",
@@ -258,7 +258,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://192.168.2.11:8080/mm/MeowXP/xxys520.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXP/xxys520.json"
     },
     {
       "key": "csp_xpath_348z",
@@ -268,7 +268,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://192.168.2.11:8080/mm/MeowXP/348z.json"
+      "ext": "https://gxbin99.github.io/mm/MeowXP/348z.json"
     },
     {
       "key": "csp_appysv2_星宿漫",
